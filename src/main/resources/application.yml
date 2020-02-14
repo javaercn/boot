@@ -1,0 +1,13 @@
+server:
+  port: 8081
+person:
+      name: 张三
+      age: 12
+      boss: false
+      map: {k1: a,k2: b}
+      list:
+        - a
+        - b
+      dog:
+        dname: 旺财
+        dage: 13

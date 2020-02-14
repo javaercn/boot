@@ -1,0 +1,11 @@
+2020-02-12 13:15:39.752  INFO 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : Starting SpringBoot01HelloworldQuickApplicationTests on Lenovo-PC with PID 8144 (started by 硕 in D:\javaprogram\spring-boot-01-helloworld-quick)
+2020-02-12 13:15:39.753 DEBUG 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-12 13:15:39.754  INFO 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : No active profile set, falling back to default profiles: default
+2020-02-12 13:15:40.992  INFO 8144 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-12 13:15:41.274  INFO 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : Started SpringBoot01HelloworldQuickApplicationTests in 2.019 seconds (JVM running for 3.024)
+2020-02-12 13:15:41.478 TRACE 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : This is the trace log....
+2020-02-12 13:15:41.479 DEBUG 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : this is debug
+2020-02-12 13:15:41.479  INFO 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : this is info log
+2020-02-12 13:15:41.479  WARN 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : this is warn log
+2020-02-12 13:15:41.479 ERROR 8144 --- [main] ingBoot01HelloworldQuickApplicationTests : this is error
+2020-02-12 13:15:41.564  INFO 8144 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
