@@ -9,4 +9,5 @@ import org.springframework.context.annotation.Configuration;
 @Configuration//指明当前类是一个配置类
 public class myAppConfig {
     // 1. hello
+    // 2. world
 }
